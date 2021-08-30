@@ -1,0 +1,8 @@
+= Welcome to Camel examples for priceloader
+
+== Introduction
+
+This project contains the various examples for working routes for Priceloader for
+Camel Spring Boot. The examples can be run using Maven. When using the Maven
+command, Maven will attempt to download the required dependencies from a
+central repository to your local repository.
